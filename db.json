@@ -1,0 +1,176 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Ficção"
+      },
+      {
+        "id": 2,
+        "nome": "Não Ficção"
+      },
+      {
+        "id": 3,
+        "nome": "História"
+      },
+      {
+        "id": 4,
+        "nome": "Romance"
+      },
+      {
+        "id": 5,
+        "nome": "Fantasia"
+      },
+      {
+        "id": 6,
+        "nome": "Ciência"
+      },
+      {
+        "id": 7,
+        "nome": "Auto-ajuda"
+      },
+      {
+        "id": 8,
+        "nome": "Mistério"
+      },
+      {
+        "id": 9,
+        "nome": "Biografia"
+      },
+      {
+        "id": 10,
+        "nome": "Tecnologia"
+      },
+      {
+        "id":11,
+        "nome": "Política"
+      },
+      {
+        "id": 12,
+        "nome": "Arte"
+      },
+      {
+        "id": 13,
+        "nome": "Saúde"
+      }
+    ],
+    "livros": [
+      { 
+        "id":1,
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id":2,
+        "titulo": "Origens",
+        "autor": "Neil deGrasse Tyson",
+        "anoPublicacao": 2017,
+        "isbn": "978-85-359-0650-4",
+        "disponivel": true,
+        "categoriaId": 2
+      },
+      {
+        "id":3,
+        "titulo": "Uma Breve História do Tempo",
+        "autor": "Stephen Hawking",
+        "anoPublicacao": 1988,
+        "isbn": "978-85-359-0278-0",
+        "disponivel": false,
+        "categoriaId": 2
+      },
+      {
+        "id":4,
+        "titulo": "Romeu e Julieta",
+        "autor": "Willian Shakespeare",
+        "anoPublicacao": 1597,
+        "isbn": "978-85-359-1234-5",
+        "disponivel": true,
+        "categoriaId": 4
+      },
+      {
+        "id":5,
+        "titulo": "O senhor dos anéis",
+        "autor": "J.R.R. Tolkien",
+        "anoPublicacao": 1954,
+        "isbn": "978-85-359-5678-9",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id":6,
+        "titulo": "Cosmos",
+        "autor": "Carl Sagan",
+        "anoPublicacao": 2012,
+        "isbn": "978-85-359-4321-0",
+        "disponivel": true,
+        "categoriaId": 6
+      },
+      {
+        "id":7,
+        "titulo": "Caminho par o sucesso pessoal",
+        "autor": "Maria Silva",
+        "anoPublicacao": 2020,
+        "isbn": "978-123456789",
+        "disponivel": false,
+        "categoriaId": 7
+      },
+      {
+        "id":8,
+        "titulo": "A Sombra do Passado",
+        "autor": "David Johnson",
+        "anoPublicacao": 2019,
+        "isbn": "978-0987654321",
+        "disponivel": true,
+        "categoriaId": 8
+      },
+      {
+        "id":9,
+        "titulo": "Vida de um Visionário: A Biografia de Steve Jobs",
+        "autor": "Walter Isaacson",
+        "anoPublicacao": 2011,
+        "isbn": "978-1451648539",
+        "disponivel": true,
+        "categoriaId": 9
+      },
+      {
+        "id":10,
+        "titulo": "A Revolução Digital: Como a Tecnologia Está Transformando o mundo",
+        "autor": "Eric schmidt e Jared Cohen",
+        "anoPublicacao": 2013,
+        "isbn": "978-0307950492",
+        "disponivel": true,
+        "categoriaId": 10
+      },
+      {
+        "id":11,
+        "titulo": "Os Desafios da Democracia: Reflexões sobre o Estado Atual",
+        "autor": "John Smith",
+        "anoPublicacao": 2020,
+        "isbn": "978-1549876543",
+        "disponivel": true,
+        "categoriaId": 11
+      },
+      {
+        "id":12,
+        "titulo": "A Beleza da Criatividade: Uma Jornada pela História de Arte",
+        "autor": "Emma Turner",
+        "anoPublicacao": 2018,
+        "isbn": "978-0987654321",
+        "disponivel": false,
+        "categoriaId": 12
+      },
+      {
+        "id":13,
+        "titulo": "Viver Bem: Um Guia Completo para uma Vida Saudável",
+        "autor": "Dr. Ana Rodrigues",
+        "anoPublicacao": 2021,
+        "isbn": "978-9876543210",
+        "disponivel": false,
+        "categoriaId": 13
+      }
+
+    ]
+  }
